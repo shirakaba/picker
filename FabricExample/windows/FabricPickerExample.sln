@@ -7,6 +7,8 @@ Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "FabricPickerExample.Package
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FabricPickerExample", "FabricPickerExample\FabricPickerExample.vcxproj", "{5B7B6299-E806-4483-8F27-9FC83A1CD130}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReactNativePicker", "..\node_modules\@react-native-picker\picker\windows\ReactNativePicker\ReactNativePicker.vcxproj", "{BEDCC600-4541-41F2-AA46-9E058202B6AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -53,6 +55,18 @@ Global
 		{5B7B6299-E806-4483-8F27-9FC83A1CD130}.Release|ARM64.ActiveCfg = Release|ARM64
 		{5B7B6299-E806-4483-8F27-9FC83A1CD130}.Release|ARM64.Build.0 = Release|ARM64
 		{5B7B6299-E806-4483-8F27-9FC83A1CD130}.Release|ARM64.Deploy.0 = Release|ARM64
+		{BEDCC600-4541-41F2-AA46-9E058202B6AD}.Debug|x64.ActiveCfg = Debug|x64
+		{BEDCC600-4541-41F2-AA46-9E058202B6AD}.Debug|x64.Build.0 = Debug|x64
+		{BEDCC600-4541-41F2-AA46-9E058202B6AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEDCC600-4541-41F2-AA46-9E058202B6AD}.Debug|x86.Build.0 = Debug|Win32
+		{BEDCC600-4541-41F2-AA46-9E058202B6AD}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{BEDCC600-4541-41F2-AA46-9E058202B6AD}.Debug|ARM64.Build.0 = Debug|ARM64
+		{BEDCC600-4541-41F2-AA46-9E058202B6AD}.Release|x64.ActiveCfg = Release|x64
+		{BEDCC600-4541-41F2-AA46-9E058202B6AD}.Release|x64.Build.0 = Release|x64
+		{BEDCC600-4541-41F2-AA46-9E058202B6AD}.Release|x86.ActiveCfg = Release|Win32
+		{BEDCC600-4541-41F2-AA46-9E058202B6AD}.Release|x86.Build.0 = Release|Win32
+		{BEDCC600-4541-41F2-AA46-9E058202B6AD}.Release|ARM64.ActiveCfg = Release|ARM64
+		{BEDCC600-4541-41F2-AA46-9E058202B6AD}.Release|ARM64.Build.0 = Release|ARM64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
