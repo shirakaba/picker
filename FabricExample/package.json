@@ -12,7 +12,8 @@
   "dependencies": {
     "@react-native-picker/picker": "link:../",
     "react": "18.3.1",
-    "react-native": "0.76.0"
+    "react-native": "0.76.0",
+    "react-native-windows": "~0.76.0-preview.4"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
@@ -23,7 +24,7 @@
     "@react-native-community/cli-platform-ios": "15.0.0-alpha.2",
     "@react-native/babel-preset": "0.76.0",
     "@react-native/eslint-config": "0.76.0",
-    "@react-native/metro-config": "0.76.0",
+    "@react-native/metro-config": "~0.76.1",
     "@react-native/typescript-config": "0.76.0",
     "@types/react": "^18.2.6",
     "@types/react-test-renderer": "^18.0.0",
