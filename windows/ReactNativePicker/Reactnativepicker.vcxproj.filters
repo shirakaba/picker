@@ -3,6 +3,12 @@
   <ItemGroup>
     <Midl Include="ReactPackageProvider.idl" />
     <Midl Include="ReactPickerView.idl" />
+    <Midl Include="Paper.idl">
+      <Filter>IDLs</Filter>
+    </Midl>
+    <Midl Include="Fabric.idl">
+      <Filter>IDLs</Filter>
+    </Midl>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp" />
@@ -12,6 +18,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
+    <ClInclude Include="targetver.h" />
     <ClInclude Include="ReactPackageProvider.h" />
     <ClInclude Include="ReactPickerViewManager.h" />
     <ClInclude Include="resource.h" />
